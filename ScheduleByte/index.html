@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ScheduleByte - AI Time Optimizer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="dark">
+  <!-- Glassmorphic Loader -->
+  <div id="loader">
+    <div class="glass-box">
+      <h1 id="loaderText">⚡ ScheduleByte</h1>
+      <h2 id="founderName">🚀 by VORTEXBYTE • @sanketpadhyal 💻✨</h2>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <div id="mainContent" class="hidden">
+    <header>
+      <div class="header-top">
+        <h1>⚡ ScheduleByte</h1>
+        <button id="themeToggle" title="Toggle Theme">🌙</button>
+      </div>
+      <p class="info-text">Made with ❤️ by VortexByte ✨ </p>
+      <p class="info-text">🧪 CURRENTLY TESTING VERSION – YOU CAN DOWNLOAD YOUR WEEKLY SCHEDULE FROM HERE</p>
+    </header>
+
+    <section class="input-grid">
+      <h2>🕓 Enter Your Weekly Schedule (Hourly)</h2>
+      <form id="scheduleForm"></form>
+      <button id="optimizeBtn">⚡ Optimize Time 😀</button>
+      <button id="downloadJpgBtn">🖼️ Download as JPG 🖼️</button>
+      <button id="goalSuggestionBtn">🎯 Goal Suggestions 🎯</button>
+      <button id="productivityBtn">📊 Productivity Score 📊</button>
+    </section>
+
+    <section id="resultSection" class="hidden">
+      <h2>🧠 Optimized Timetable</h2>
+      <div id="optimizedOutput"></div>
+    </section>
+
+    <footer>
+      <button class="coming-soon-btn">🛠️ MAKE TIMETABLE (COMING SOON) 🛠️</button>
+    </footer>
+
+    <canvas id="jpgCanvas" width="1400" height="1800" style="display: none;"></canvas>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
