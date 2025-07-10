@@ -30,6 +30,6 @@ LIVE BY PLATFORM - NETLIFY
                                                                                                                                         
                                                                                                                                         
                                                                                                                                         
-                                              sign out
-                                   SANKET PADHYAL ~ VortexByte
+                                                         sign out
+                                              SANKET PADHYAL ~ VortexByte
 
