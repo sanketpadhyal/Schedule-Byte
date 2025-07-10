@@ -25,6 +25,7 @@ Your optimized timetable is exportable as a stylish, ready-to-share JPG file.
 🌙 **Dark / Light Mode Toggle**  
 Smooth Telegram-style theme switch with transitions.
 
-
-
+LIVE BY PLATFORM - NETLIFY                  
+                                                                                                                                        sign out
+                                                                                                                                        SANKET PADHYAL ~ VortexByte
 
