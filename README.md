@@ -3,7 +3,7 @@
 
 Welcome to **ScheduleByte**, an interactive and intelligent timetable planner powered by your own logic and creativity! 🚀  
 This tool helps you input your weekly schedule, get productivity analysis, goal suggestions, and even download your optimized plan as a beautiful JPG image.
-Live On Web - https://spontaneous-strudel-f9d3c6.netlify.app/
+Live On Web - https://heartfelt-mooncake-e2a9f1.netlify.app/
 Made with 💻 by **VortexByte (Sanket Padhyal)** • [@sanketpadhyal](https://github.com/sanketpadhyal)
 
 ---
