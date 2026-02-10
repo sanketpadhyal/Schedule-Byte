@@ -42,6 +42,11 @@ Plan your week, analyze productivity, get goal-based suggestions, and download y
 
 ---
 
+### 📅 Project Information
+Created: July 11, 2025
+
+---
+
 ## 📜 License
 
 © 2025 ScheduleByte. All rights reserved.  
